@@ -1,0 +1,28 @@
+.test {
+color:black;
+}
+
+.pull-right {
+    position:absolute;
+    right:20px;
+}
+
+.border-right {
+    border-right: 1px solid black;
+    height: 100%;
+}
+
+/*body {
+    display:block;
+    overflow:auto;
+    min-height: 800px;
+}*/
+
+.sidenav {
+  padding-top: 20px;
+  background-color: #f1f1f1;
+  height: 100%;
+}
+.page-content {
+  height: 700px;
+}
