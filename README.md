@@ -9,13 +9,16 @@ node app.js
 ```
 
 ## Technology Used
+
 # Back-end:
 1. Node.js
 2. MongoDB
 3. Express.js
-4. Bootstrap
-5. HTML
-6. CSS
+
+# Front-end:
+1. Bootstrap
+2. HTML
+3. CSS
 
 ## Screenshots
 ### Homepage
