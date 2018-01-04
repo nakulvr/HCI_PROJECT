@@ -9,7 +9,7 @@ node app.js
 ```
 
 ## Technology Used
-![Back-end:]
+# Back-end:
 1. Node.js
 2. MongoDB
 3. Express.js
