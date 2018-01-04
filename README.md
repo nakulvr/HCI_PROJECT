@@ -2,7 +2,7 @@
 A common web portal for students to share resources (Computer-Human Interaction project)
 
 ## Installation
-### Pre-requisite is to have the “mongod” service running
+Pre-requisite is to have the “mongod” service running
 ```bash
 git clone https://github.com/nakulvr/HCI_PROJECT
 npm install
