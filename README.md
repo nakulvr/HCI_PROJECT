@@ -17,6 +17,7 @@ node app.js
 ## Screenshots
 ### Homepage
 The homepage for the application. It will show the two features of Book-Share and Housing Reviews (other features yet to be implemented)
+
 ![homepage](/screenshots/homepage.png?raw=true "Homepage")
 
 
