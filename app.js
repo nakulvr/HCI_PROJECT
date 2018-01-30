@@ -32,7 +32,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 MongoClient.connect(mongoUri, function(err, db) {
 
     assert.equal(null, err);
-    console.log('Successfully connected to mondodb');
+    console.log('Successfully connected to mongodb');
 
     app.get('/', function(req, res) {
         db.collection('books').find({}).toArray(function(err, docs) {
