@@ -4,7 +4,7 @@ A common web portal for students to share resources (Computer-Human Interaction 
 ## Installation
 Pre-requisite is to have the “mongod” service running
 ```bash
-git clone https://github.com/nakulvr/HCI_PROJECT
+git clone https://github.com/nakulvr/NUShare
 npm install
 node app.js
 ```
